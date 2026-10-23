@@ -1,9 +1,14 @@
+# [▶ 点击这里，直接观看项目视频](https://xuboxiao123.github.io/portfolio/)
+
+**毕设界面 · 毕设模型 · 外卖柜 App · 咖啡网站 · 鲁班锁文玩**
+
+[毕设界面](https://xuboxiao123.github.io/portfolio/#capstone-interface) · [毕设模型](https://xuboxiao123.github.io/portfolio/#capstone-model) · [外卖柜 App](https://xuboxiao123.github.io/portfolio/#right-locker) · [咖啡网站](https://xuboxiao123.github.io/portfolio/#coffee-website) · [鲁班锁文玩](https://xuboxiao123.github.io/portfolio/#luban-lock)
+
+---
+
 <p align="center"><strong>BOXIAO XU · 许博骁</strong></p>
 
 # Engineering ideas into experiences.
-
-[▶ 在线播放全部 5 段视频](https://xuboxiao123.github.io/portfolio/)
-
 
 Selected work across **AI, full-stack development, connected devices and design**.
 
@@ -15,7 +20,7 @@ Master of Information Technology student at **UNSW**, focusing on AI. Undergradu
 
 ## 视频作品 / Project videos
 
-[▶ 查看全部 5 段项目视频](VIDEOS.md) · 毕设界面 · 毕设模型 · Right Locker · 咖啡网站 · 鲁班锁文玩
+[▶ 直接播放全部 5 段项目视频](https://xuboxiao123.github.io/portfolio/) · 毕设界面 · 毕设模型 · Right Locker · 咖啡网站 · 鲁班锁文玩
 
 ## Source code / 源码直达
 
@@ -89,4 +94,5 @@ A React event-management interface with search, date sorting, forms and an Axios
 This is a curated showcase of undergraduate projects and prototypes. Individual case studies distinguish implemented code, design proposals, original renders and report boards. Images remain the original project work; publication does not imply that every historical service is currently running.
 
 © Boxiao Xu. Project media is shared for portfolio review. Third-party brands, imagery and assets retain their original ownership.
+
 
