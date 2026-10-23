@@ -2,6 +2,9 @@
 
 # PHP Contact Manager
 
+
+[Browse PHP source](code/php-contacts/) · [SQL schema](code/php-contacts/assignment3.sql)
+
 **PHP＋MySQL 联系人管理系统**
 
 A server-rendered contact-management application for practising forms and SQL CRUD.

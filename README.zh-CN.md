@@ -4,6 +4,18 @@
 
 以 AI、全栈开发与数据库项目为重点，同时呈现嵌入式、产品设计和 UI/UX 经验。
 
+## Source code / 源码直达
+
+| Project | Browse source | Key code |
+|---|---|---|
+| YOLOv5 图像切片（实习） | [Source](code/yolo-object-slicing/) | [Object slicing](code/yolo-object-slicing/object_slicing.py) |
+| React 活动管理 | [Source](code/react-events/) | [App](code/react-events/src/App.jsx) · [API client](code/react-events/src/services/api.js) |
+| PHP / MySQL 联系人 | [Source](code/php-contacts/) | [PHP](code/php-contacts/index.php) · [SQL](code/php-contacts/assignment3.sql) |
+| Arduino / IoT | [Source](code/arduino-iot/) | [Arduino](code/arduino-iot/environment_motor.ino) · [Python](code/arduino-iot/iot_led_controller.py) |
+| AI + NFC 毕设 | [Implementation repository](https://github.com/xuboxiao123/NFC---3D-character-modeling) | [Case study](project-ai-nfc-character.md) |
+
+[YOLOv5 slicing internship case study →](project-yolo-slicing.md)
+
 ## [AI 辅助的交互式三维人物编辑系统](project-ai-nfc-character.md)
 
 结合生成式 AI、NFC 实体卡片与交互装置，降低普通用户创作三维角色的门槛，并串联模型预览、编辑与打印。

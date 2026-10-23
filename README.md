@@ -10,6 +10,18 @@ Master of Information Technology student at **UNSW**, focusing on AI. Undergradu
 
 [GitHub profile](https://github.com/xuboxiao123) · [中文导览](README.zh-CN.md) · [Image sources and project scope](SOURCES.md)
 
+## Source code / 源码直达
+
+| Project | Browse source | Key code |
+|---|---|---|
+| YOLOv5 图像切片（实习） | [Source](code/yolo-object-slicing/) | [Object slicing](code/yolo-object-slicing/object_slicing.py) |
+| React 活动管理 | [Source](code/react-events/) | [App](code/react-events/src/App.jsx) · [API client](code/react-events/src/services/api.js) |
+| PHP / MySQL 联系人 | [Source](code/php-contacts/) | [PHP](code/php-contacts/index.php) · [SQL](code/php-contacts/assignment3.sql) |
+| Arduino / IoT | [Source](code/arduino-iot/) | [Arduino](code/arduino-iot/environment_motor.ino) · [Python](code/arduino-iot/iot_led_controller.py) |
+| AI + NFC 毕设 | [Implementation repository](https://github.com/xuboxiao123/NFC---3D-character-modeling) | [Case study](project-ai-nfc-character.md) |
+
+[YOLOv5 slicing internship case study →](project-yolo-slicing.md)
+
 ## Featured work
 
 ### [AI + NFC Character Studio](project-ai-nfc-character.md)
@@ -36,6 +48,7 @@ A React event-management interface with search, date sorting, forms and an Axios
 
 | Project | Focus | Explore |
 |---|---|---|
+| **YOLOv5-guided Object Slicing**<br>中科院实习：目标检测引导的切片算法 | Python / OpenCV / Algorithm | [Case study](project-yolo-slicing.md) |
 | **AI + NFC Character Studio**<br>AI 辅助的交互式三维人物编辑系统 | AI / Full-stack / Physical interaction | [Case study](project-ai-nfc-character.md) |
 | **Event Management System**<br>React 活动管理系统 | Web / Database | [Case study](project-event-manager.md) |
 | **IoT Environment Monitor**<br>ESP8266 环境监测与远程控制原型 | IoT / Embedded / Python | [Case study](project-iot-monitor.md) |

@@ -18,7 +18,7 @@ A React event-management interface with search, date sorting, forms and an Axios
 - Separate API requests from UI components.
 
 ## Source
-[Browse the original frontend](React-Event-Manager-Source.zip) · [App component](React-Event-Manager-Source.zip) · [API client](React-Event-Manager-Source.zip)
+[Browse the original frontend](code/react-events/) · [App component](code/react-events/src/App.jsx) · [API client](code/react-events/src/services/api.js)
 
 ```text
 React components → Axios → Express REST API → MySQL

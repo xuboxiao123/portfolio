@@ -1,6 +1,6 @@
 # Image sources and scope
 
-This showcase was curated from the external-drive project archive and the project descriptions on the owner’s BOSS resume. BOSS page screenshots, contact information, interviewee portraits, grades, institutional internship files and third-party submission folders are not included.
+This showcase was curated from the external-drive project archive and the project descriptions on the owner’s BOSS resume. BOSS page screenshots, contact information, interviewee portraits, grades, institutional datasets, server credentials and third-party submission folders are not included.
 
 | Section | Original material | Publication treatment |
 |---|---|---|
@@ -20,3 +20,7 @@ React frontend files are copied from the owner's submission folder. Code is reta
 ## Verification boundary
 
 Project descriptions were checked against available source code, report pages, screenshots and archived notes. No current AI generation, physical hardware execution or database-backed end-to-end run is claimed by publishing this repository.
+
+## Source publication update
+
+React, PHP/SQL and Arduino/IoT sources are now browsable under code/. PHP local database settings were parameterised with environment variables. The YOLOv5 slicing source was selected after the owner identified the slicing algorithm as his main internship contribution. Its original detector licence notice is retained. No remote-service scripts containing server credentials, institutional image data or model weights were uploaded.

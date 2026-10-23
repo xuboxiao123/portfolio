@@ -2,6 +2,9 @@
 
 # AI + NFC Character Studio
 
+
+[Browse the capstone implementation](https://github.com/xuboxiao123/NFC---3D-character-modeling)
+
 **AI 辅助的交互式三维人物编辑系统**
 
 A character-creation experience connecting generative AI, physical NFC cards, a web interface and 3D printing.
