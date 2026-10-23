@@ -3,7 +3,7 @@
 # AI + NFC Character Studio
 
 
-[Browse the capstone implementation](https://github.com/xuboxiao123/NFC---3D-character-modeling)
+[毕设源码导航](https://github.com/xuboxiao123/NFC---3D-character-modeling/blob/main/CODE_INDEX.md) · [Vue 前端](https://github.com/xuboxiao123/NFC---3D-character-modeling/tree/main/fontend/src) · [Java 后端](https://github.com/xuboxiao123/NFC---3D-character-modeling/tree/main/src/main/java/com/example/NFC_system) · [ESP32 固件](https://github.com/xuboxiao123/NFC---3D-character-modeling/tree/main/hardware)
 
 **AI 辅助的交互式三维人物编辑系统**
 
@@ -40,3 +40,4 @@ Traditional 3D tools can be difficult for first-time users. The project explores
 Undergraduate capstone prototype and design case study. The boards document the original project; they are not a claim that the AI services or hardware are currently deployed.
 
 [Related implementation repository](https://github.com/xuboxiao123/NFC---3D-character-modeling)
+
