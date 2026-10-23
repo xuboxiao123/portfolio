@@ -4,6 +4,10 @@
 
 以 AI、全栈开发与数据库项目为重点，同时呈现嵌入式、产品设计和 UI/UX 经验。
 
+## 视频作品 / Project videos
+
+[▶ 查看全部 5 段项目视频](VIDEOS.md) · 毕设界面 · 毕设模型 · Right Locker · 咖啡网站 · 鲁班锁文玩
+
 ## Source code / 源码直达
 
 | Project | Browse source | Key code |
@@ -65,3 +69,4 @@
 **技术／工具：** PHP · MySQL · HTML · CSS · SQL · CRUD
 
 每个项目页都配有对应图片和材料说明；原始设计稿、渲染图、源码排版图及概念方案均有区分。
+

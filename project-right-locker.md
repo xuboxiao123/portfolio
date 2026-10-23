@@ -30,3 +30,10 @@ Review delivery details, navigate to a campus locker and verify its unique code/
 
 ## Scope
 UI/UX and service-design proposal. Screens document the proposed experience; a deployed locker network is not claimed.
+
+
+## 视频演示
+
+- [▶ Right Locker · 外卖柜 App（2:16）](videos/right-locker.mp4)
+
+[查看全部项目视频 →](VIDEOS.md)

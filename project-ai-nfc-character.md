@@ -41,3 +41,11 @@ Undergraduate capstone prototype and design case study. The boards document the 
 
 [Related implementation repository](https://github.com/xuboxiao123/NFC---3D-character-modeling)
 
+
+
+## 视频演示
+
+- [▶ 毕设 · 界面展示（2:00）](videos/capstone-interface.mp4)
+- [▶ 毕设 · 模型部分（2:29）](videos/capstone-model.mp4)
+
+[查看全部项目视频 →](VIDEOS.md)

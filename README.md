@@ -10,6 +10,10 @@ Master of Information Technology student at **UNSW**, focusing on AI. Undergradu
 
 [GitHub profile](https://github.com/xuboxiao123) · [中文导览](README.zh-CN.md) · [Image sources and project scope](SOURCES.md)
 
+## 视频作品 / Project videos
+
+[▶ 查看全部 5 段项目视频](VIDEOS.md) · 毕设界面 · 毕设模型 · Right Locker · 咖啡网站 · 鲁班锁文玩
+
 ## Source code / 源码直达
 
 | Project | Browse source | Key code |
@@ -82,3 +86,4 @@ A React event-management interface with search, date sorting, forms and an Axios
 This is a curated showcase of undergraduate projects and prototypes. Individual case studies distinguish implemented code, design proposals, original renders and report boards. Images remain the original project work; publication does not imply that every historical service is currently running.
 
 © Boxiao Xu. Project media is shared for portfolio review. Third-party brands, imagery and assets retain their original ownership.
+
