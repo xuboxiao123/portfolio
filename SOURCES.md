@@ -24,3 +24,8 @@ Project descriptions were checked against available source code, report pages, s
 ## Source publication update
 
 React, PHP/SQL and Arduino/IoT sources are now browsable under code/. PHP local database settings were parameterised with environment variables. The YOLOv5 slicing source was selected after the owner identified the slicing algorithm as his main internship contribution. Its original detector licence notice is retained. No remote-service scripts containing server credentials, institutional image data or model weights were uploaded.
+
+
+## Recovered E: source / E 盘补充源码
+
+See [SOURCE_AUDIT.md](SOURCE_AUDIT.md) for the source audit and validation scope. Java files were recovered from E:/eclipse/workspace/a/src; Eclipse copies and submitted ZIPs were deduplicated. Course helper authorship is retained. The Echo prototype comes from E:/Codex/2026-09-25/unsw-ai-echovideo-assistant. The Events API comes from E:/下载/ExpressEventsAPI(1).zip and is identified as course-companion reference material, not a newly verified independent contribution. Database configuration in that publication copy uses environment variables; schema.example.sql is explicitly reconstructed from queries.

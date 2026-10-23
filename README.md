@@ -28,6 +28,9 @@ Master of Information Technology student at **UNSW**, focusing on AI. Undergradu
 
 | Project | Browse source | Key code |
 |---|---|---|
+| Java OOP & algorithms / Java 算法 | [Source](code/java-algorithms/) | [Linked list](code/java-algorithms/assignment2/MyList.java) · [BST](code/java-algorithms/assignment3/StudentTree.java) · [Hash table](code/java-algorithms/assignment4/MyHashTable.java) |
+| Echo lecture helper / 讲座学习插件 | [Source](code/echo-study-helper/) | [Extension logic](code/echo-study-helper/content.js) · [Manifest](code/echo-study-helper/manifest.json) |
+| Events API companion / 课程配套后端 | [Reference source](code/event-api-reference/) | [Express](code/event-api-reference/app.js) · [CRUD model](code/event-api-reference/server/models/Events.js) |
 | YOLOv5 图像切片（实习） | [Source](code/yolo-object-slicing/) | [Object slicing](code/yolo-object-slicing/object_slicing.py) |
 | React 活动管理 | [Source](code/react-events/) | [App](code/react-events/src/App.jsx) · [API client](code/react-events/src/services/api.js) |
 | PHP / MySQL 联系人 | [Source](code/php-contacts/) | [PHP](code/php-contacts/index.php) · [SQL](code/php-contacts/assignment3.sql) |
@@ -99,3 +102,10 @@ This is a curated showcase of undergraduate projects and prototypes. Individual 
 
 
 
+
+
+## Additional source projects / 补充源码项目
+
+- [Java OOP & Algorithms / Java 面向对象与算法](project-java-algorithms.md) — four coursework implementations / 四组课程实现。
+- [Echo Lecture Study Helper / 讲座学习助手](project-echo-study-helper.md) — a personal extension prototype / 个人插件原型。
+- [Source audit / 源码核对清单](SOURCE_AUDIT.md) — recovered source, attribution and validation / 补传范围、贡献归属与验证结果。
