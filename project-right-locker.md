@@ -2,6 +2,9 @@
 
 # Right Locker
 
+[▶ 在线播放全部 5 段视频](https://xuboxiao123.github.io/portfolio/)
+
+
 **校园配送柜双端服务设计**
 
 A two-sided delivery-locker experience for students and campus delivery riders.
@@ -34,6 +37,6 @@ UI/UX and service-design proposal. Screens document the proposed experience; a d
 
 ## 视频演示
 
-- [▶ Right Locker · 外卖柜 App（2:16）](videos/right-locker.mp4)
+- [▶ Right Locker · 外卖柜 App（2:16）](https://xuboxiao123.github.io/portfolio/#right-locker)
 
 [查看全部项目视频 →](VIDEOS.md)

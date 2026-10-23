@@ -2,6 +2,9 @@
 
 # AI + NFC Character Studio
 
+[▶ 在线播放全部 5 段视频](https://xuboxiao123.github.io/portfolio/)
+
+
 
 [毕设源码导航](https://github.com/xuboxiao123/NFC---3D-character-modeling/blob/main/CODE_INDEX.md) · [Vue 前端](https://github.com/xuboxiao123/NFC---3D-character-modeling/tree/main/fontend/src) · [Java 后端](https://github.com/xuboxiao123/NFC---3D-character-modeling/tree/main/src/main/java/com/example/NFC_system) · [ESP32 固件](https://github.com/xuboxiao123/NFC---3D-character-modeling/tree/main/hardware)
 
@@ -45,7 +48,7 @@ Undergraduate capstone prototype and design case study. The boards document the 
 
 ## 视频演示
 
-- [▶ 毕设 · 界面展示（2:00）](videos/capstone-interface.mp4)
-- [▶ 毕设 · 模型部分（2:29）](videos/capstone-model.mp4)
+- [▶ 毕设 · 界面展示（2:00）](https://xuboxiao123.github.io/portfolio/#capstone-interface)
+- [▶ 毕设 · 模型部分（2:29）](https://xuboxiao123.github.io/portfolio/#capstone-model)
 
 [查看全部项目视频 →](VIDEOS.md)

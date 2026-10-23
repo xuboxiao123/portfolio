@@ -1,5 +1,8 @@
 # 许博骁 · 项目作品集
 
+[▶ 在线播放全部 5 段视频](https://xuboxiao123.github.io/portfolio/)
+
+
 [English overview](README.md)
 
 以 AI、全栈开发与数据库项目为重点，同时呈现嵌入式、产品设计和 UI/UX 经验。

@@ -2,6 +2,9 @@
 
 # Engineering ideas into experiences.
 
+[▶ 在线播放全部 5 段视频](https://xuboxiao123.github.io/portfolio/)
+
+
 Selected work across **AI, full-stack development, connected devices and design**.
 
 我将产品设计、交互体验与软件和硬件实现结合，探索从概念到可用原型的完整过程。
