@@ -1,0 +1,43 @@
+[← Portfolio](README.md)
+
+# Event Management System
+
+**React 活动管理系统**
+
+A React event-management interface with search, date sorting, forms and an Axios REST client.
+
+使用 React 组件与 Hooks 管理活动列表、搜索、日期排序和新增／编辑表单，通过 Axios 对接 REST API。
+
+**Tools & technologies:** JavaScript · React · Vite · Axios · REST API · Express / MySQL integration
+
+## Features verified in the original frontend
+- Load event records and show loading or request-error feedback.
+- Search by name and sort by date.
+- Create and edit events through a reusable form.
+- Delete records after user confirmation and show success feedback.
+- Separate API requests from UI components.
+
+## Source
+[Browse the original frontend](React-Event-Manager-Source.zip) · [App component](React-Event-Manager-Source.zip) · [API client](React-Event-Manager-Source.zip)
+
+```text
+React components → Axios → Express REST API → MySQL
+```
+
+The repository includes the frontend from the student submission directory. The REST backend is an integration dependency and is not included here. An alternate complete backend found under a different student's submission identifier has deliberately not been presented as personal authorship.
+
+## Code visuals
+![React state and async loading](event-manager-react-state.jpg)
+![Axios API operations](event-manager-api-client.jpg)
+*These are formatted images of original source code, not application screenshots or current end-to-end test results.*
+
+## Running the frontend
+```sh
+cd project-event-manager.mdsource
+npm ci
+npm run dev
+```
+Requires Node.js and a compatible events API. The original API client targets `http://localhost:8181/events`; update it for your environment. The UI expects event records with id, name, description, startdate and enddate.
+
+## Status
+Original source reviewed for this portfolio. No current database-backed CRUD verification is claimed.
