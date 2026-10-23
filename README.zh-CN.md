@@ -1,6 +1,6 @@
 # 许博骁 · 项目作品集
 
-[▶ 在线播放全部 5 段视频](https://xuboxiao123.github.io/portfolio/)
+[▶ 在线播放全部 5 段视频 / Watch Project Videos](https://xuboxiao123.github.io/portfolio/)
 
 
 [English overview](README.md)
@@ -9,7 +9,7 @@
 
 ## 视频作品 / Project videos
 
-[▶ 查看全部 5 段项目视频](VIDEOS.md) · 毕设界面 · 毕设模型 · Right Locker · 咖啡网站 · 鲁班锁文玩
+[▶ 查看全部 5 段项目视频 / Watch all videos](https://xuboxiao123.github.io/portfolio/) · 毕设界面 · 毕设模型 · Right Locker · 咖啡网站 · 鲁班锁文玩
 
 ## Source code / 源码直达
 
@@ -72,4 +72,5 @@
 **技术／工具：** PHP · MySQL · HTML · CSS · SQL · CRUD
 
 每个项目页都配有对应图片和材料说明；原始设计稿、渲染图、源码排版图及概念方案均有区分。
+
 

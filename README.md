@@ -1,8 +1,10 @@
-# [▶ 点击这里，直接观看项目视频](https://xuboxiao123.github.io/portfolio/)
+# [▶ Watch Project Videos / 点击观看项目视频](https://xuboxiao123.github.io/portfolio/)
 
-**毕设界面 · 毕设模型 · 外卖柜 App · 咖啡网站 · 鲁班锁文玩**
+**Capstone interface · 3D model · Right Locker · Coffee website · Wooden puzzle**
 
-[毕设界面](https://xuboxiao123.github.io/portfolio/#capstone-interface) · [毕设模型](https://xuboxiao123.github.io/portfolio/#capstone-model) · [外卖柜 App](https://xuboxiao123.github.io/portfolio/#right-locker) · [咖啡网站](https://xuboxiao123.github.io/portfolio/#coffee-website) · [鲁班锁文玩](https://xuboxiao123.github.io/portfolio/#luban-lock)
+毕设界面 · 毕设模型 · 外卖柜 App · 咖啡网站 · 鲁班锁文玩
+
+[Capstone interface / 毕设界面](https://xuboxiao123.github.io/portfolio/#capstone-interface) · [3D model / 毕设模型](https://xuboxiao123.github.io/portfolio/#capstone-model) · [Right Locker / 外卖柜 App](https://xuboxiao123.github.io/portfolio/#right-locker) · [Coffee website / 咖啡网站](https://xuboxiao123.github.io/portfolio/#coffee-website) · [Wooden puzzle / 鲁班锁文玩](https://xuboxiao123.github.io/portfolio/#luban-lock)
 
 ---
 
@@ -20,7 +22,7 @@ Master of Information Technology student at **UNSW**, focusing on AI. Undergradu
 
 ## 视频作品 / Project videos
 
-[▶ 直接播放全部 5 段项目视频](https://xuboxiao123.github.io/portfolio/) · 毕设界面 · 毕设模型 · Right Locker · 咖啡网站 · 鲁班锁文玩
+[▶ Watch all 5 videos / 播放全部视频](https://xuboxiao123.github.io/portfolio/) · 毕设界面 · 毕设模型 · Right Locker · 咖啡网站 · 鲁班锁文玩
 
 ## Source code / 源码直达
 
@@ -94,5 +96,6 @@ A React event-management interface with search, date sorting, forms and an Axios
 This is a curated showcase of undergraduate projects and prototypes. Individual case studies distinguish implemented code, design proposals, original renders and report boards. Images remain the original project work; publication does not imply that every historical service is currently running.
 
 © Boxiao Xu. Project media is shared for portfolio review. Third-party brands, imagery and assets retain their original ownership.
+
 
 
