@@ -2,6 +2,9 @@
 
 # IoT Environment Monitor
 
+![ESP8266 and MQTT annotated hardware prototype](mqtt-annotated-prototype.jpg)
+
+
 
 [Project gallery](https://xuboxiao123.github.io/portfolio/iot-environment.html) · [Python MQTT controller](code/arduino-iot/iot_led_controller.py) · [Separate Arduino project](project-environment-control.md)
 

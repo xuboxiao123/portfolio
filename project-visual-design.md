@@ -1,7 +1,27 @@
+[← Portfolio](README.md)
+
 # Web & Interface Design / 网页与界面设计
 
-[Open design gallery](https://xuboxiao123.github.io/portfolio/visual-design.html)
+## Extract Hour Café / 咖啡网页
 
-Selected website and interface work: Extract Hour Café (WordPress), Smart Travel review interfaces, MOLD. character studio, the early travel website (HTML/CSS/JavaScript), and Right Locker student/courier UI.
+[Project notes and walkthrough](project-coffee-website.md)
 
-The featured gallery focuses on web and interface design. Original poster coursework is retained as archival material and is not featured in this selection.
+![Coffee website page designs](coffee-web-home.jpg)
+
+## Smart Travel / 旅行评价界面
+
+[Three concepts and iteration](project-smart-travel.md)
+
+![Travel review interface](travel-selected-interface.jpg)
+
+## MOLD. / 毕设 Vue 界面
+
+[Project and source](project-ai-nfc-character.md)
+
+![Capstone web interface](capstone-selected-interface.jpg)
+
+## Right Locker / 配送柜双端界面
+
+[Project notes](project-right-locker.md)
+
+![Student and courier UI](right-locker-selected-ui.jpg)

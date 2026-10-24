@@ -2,6 +2,9 @@
 
 # Environmental Sensing & Automatic Actuation / 环境感知与自动执行控制系统
 
+![Arduino environmental sensing and motor-control prototype](arduino-environment-prototype.jpg)
+
+
 **Arduino · LDR · DHT11 · DC motor · Serial diagnostics**
 
 [Project gallery](https://xuboxiao123.github.io/portfolio/environment-control.html) · [Arduino source](code/arduino-iot/environment_motor.ino)

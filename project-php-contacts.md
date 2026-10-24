@@ -2,6 +2,13 @@
 
 # PHP Contact Manager
 
+![PHP form handling and validation — source excerpt](php-contacts-form-and-validation.jpg)
+
+**Backend work:** server-rendered contact forms, request validation, SQL writes and CRUD navigation.
+
+[PHP source](code/php-contacts/) · [SQL schema](code/php-contacts/assignment3.sql)
+
+
 
 [Browse PHP source](code/php-contacts/) · [SQL schema](code/php-contacts/assignment3.sql)
 
@@ -23,3 +30,4 @@ The original project contains seven PHP files. The inspected version has no logi
 
 ## Scope
 Historical educational project. The original PHP and SQL files were located on the external drive and the previous project archive was reviewed. A current MySQL connection and live CRUD execution have not been verified for this publication.
+

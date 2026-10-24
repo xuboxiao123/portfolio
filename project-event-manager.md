@@ -2,6 +2,9 @@
 
 # Event Management System
 
+![React event-management interface](react-events-interface.jpg)
+
+
 **React 活动管理系统**
 
 A React event-management interface with search, date sorting, forms and an Axios REST client.

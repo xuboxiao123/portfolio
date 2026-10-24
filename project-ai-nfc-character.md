@@ -2,6 +2,17 @@
 
 # AI + NFC Character Studio
 
+![MOLD. physical product and interaction terminal](product-capstone-render.jpg)
+
+**My work:** Vue interfaces, Spring Boot/MySQL integration, AI generation workflows and ESP32/RC522 physical interaction.
+
+[Source code](https://github.com/xuboxiao123/NFC---3D-character-modeling) · [Interface video](https://xuboxiao123.github.io/portfolio/films.html#capstone-interface) · [Physical interaction video](https://xuboxiao123.github.io/portfolio/films.html#capstone-model)
+
+## Web interface / 网页界面
+
+![Character creation, editing and community screens](capstone-selected-interface.jpg)
+
+
 [▶ 在线播放全部 5 段视频](https://xuboxiao123.github.io/portfolio/)
 
 
@@ -52,3 +63,4 @@ Undergraduate capstone prototype and design case study. The boards document the 
 - [▶ 毕设 · 模型部分（2:29）](https://xuboxiao123.github.io/portfolio/#capstone-model)
 
 [查看全部项目视频 →](VIDEOS.md)
+

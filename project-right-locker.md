@@ -2,6 +2,9 @@
 
 # Right Locker
 
+![Right Locker student and courier interfaces](right-locker-selected-ui.jpg)
+
+
 [▶ 在线播放全部 5 段视频](https://xuboxiao123.github.io/portfolio/)
 
 
@@ -40,3 +43,4 @@ UI/UX and service-design proposal. Screens document the proposed experience; a d
 - [▶ Right Locker · 外卖柜 App（2:16）](https://xuboxiao123.github.io/portfolio/#right-locker)
 
 [查看全部项目视频 →](VIDEOS.md)
+
