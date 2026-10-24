@@ -20,7 +20,7 @@ I build across interfaces, backend services, AI workflows and physical prototype
 
 [![Learning platform code editor and completed run](assets/images/thumb-learning-workbench.jpg)](docs/projects/project-learning-workbench.md)
 
-**JavaScript · Python · SQLite · JSON · local code execution.** Course navigation, editable notebooks, study tools and persistent notes. A standalone C example was run successfully for this capture.
+**JavaScript · Python · SQLite · JSON · local code execution.** Exam dates and revision scope, assignment deadlines with Sydney/Beijing time display, topic cards and mind maps, editable programming notebooks, and shortcuts to learning software. A standalone C example was run successfully for this capture.
 
 [Project & screenshots / 图文介绍](docs/projects/project-learning-workbench.md) · [Source snapshot / 源码](code/learning-workbench) · [Download / 下载](downloads/learning-workbench-source.zip)
 
