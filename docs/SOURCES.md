@@ -34,3 +34,8 @@ Project descriptions were checked against available source code, report pages, s
 ## Interface and hardware evidence update
 
 Owner-supplied screenshots dated 24 October 2026: ESP8266/MQTT system, wiring, annotated prototype, physical tests and message/serial output; separate Arduino environment-sensing/motor project diagrams and implementation photographs; React Event Manager list and edit-dialog screenshots. Concept diagrams and implementation revisions are labelled separately. Existing Right Locker, café and capstone imagery is reused for the four frontend cards.
+
+
+## Personal Learning Workbench
+
+Screenshots captured from the owner's running local application on 24 October 2026. A standalone C stack example produced 8, 5, 2. Source snapshot is based on the local application modules, with demo metadata replacing personal data and a portable origin/port entry point. Personal records, course PDFs, transcripts and local config are excluded.

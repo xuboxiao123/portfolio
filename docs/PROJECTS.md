@@ -38,7 +38,7 @@ Master of Information Technology student at **UNSW**, focusing on AI. Undergradu
 
 
 
-[GitHub profile](https://github.com/xuboxiao123) · [中文导览](README.zh-CN.md) · [Image sources and project scope](SOURCES.md)
+[GitHub profile](https://github.com/xuboxiao123) · [中文导览](../README.zh-CN.md) · [Image sources and project scope](SOURCES.md)
 
 
 
@@ -53,7 +53,7 @@ Master of Information Technology student at **UNSW**, focusing on AI. Undergradu
 
 ## Posters & Visual Design / 海报与视觉设计
 
-[Open image gallery / 打开图片画廊](https://xuboxiao123.github.io/portfolio/visual-design.html) · [Project notes / 作品说明](project-visual-design.md)
+[Open image gallery / 打开图片画廊](https://xuboxiao123.github.io/portfolio/pages/visual-design.html) · [Project notes / 作品说明](projects/project-visual-design.md)
 
 Year 2 onward: creative posters, typography, personal logo, pictograms and information design.
 大二及之后：创意海报、字体版式、个人标志、图标系统与信息设计。
@@ -66,25 +66,25 @@ Year 2 onward: creative posters, typography, personal logo, pictograms and infor
 
 |---|---|---|
 
-| Java OOP & algorithms / Java 算法 | [Source](code/java-algorithms/) | [Linked list](code/java-algorithms/assignment2/MyList.java) · [BST](code/java-algorithms/assignment3/StudentTree.java) · [Hash table](code/java-algorithms/assignment4/MyHashTable.java) |
+| Java OOP & algorithms / Java 算法 | [Source](../code/java-algorithms) | [Linked list](../code/java-algorithms/assignment2/MyList.java) · [BST](../code/java-algorithms/assignment3/StudentTree.java) · [Hash table](../code/java-algorithms/assignment4/MyHashTable.java) |
 
-| Echo lecture helper / 讲座学习插件 | [Source](code/echo-study-helper/) | [Extension logic](code/echo-study-helper/content.js) · [Manifest](code/echo-study-helper/manifest.json) |
+| Echo lecture helper / 讲座学习插件 | [Source](../code/echo-study-helper) | [Extension logic](../code/echo-study-helper/content.js) · [Manifest](../code/echo-study-helper/manifest.json) |
 
-| Events API companion / 课程配套后端 | [Reference source](code/event-api-reference/) | [Express](code/event-api-reference/app.js) · [CRUD model](code/event-api-reference/server/models/Events.js) |
+| Events API companion / 课程配套后端 | [Reference source](../code/event-api-reference) | [Express](../code/event-api-reference/app.js) · [CRUD model](../code/event-api-reference/server/models/Events.js) |
 
-| YOLOv5 图像切片（实习） | [Source](code/yolo-object-slicing/) | [Object slicing](code/yolo-object-slicing/object_slicing.py) |
+| YOLOv5 图像切片（实习） | [Source](../code/yolo-object-slicing) | [Object slicing](../code/yolo-object-slicing/object_slicing.py) |
 
-| React 活动管理 | [Source](code/react-events/) | [App](code/react-events/src/App.jsx) · [API client](code/react-events/src/services/api.js) |
+| React 活动管理 | [Source](../code/react-events) | [App](../code/react-events/src/App.jsx) · [API client](../code/react-events/src/services/api.js) |
 
-| PHP / MySQL 联系人 | [Source](code/php-contacts/) | [PHP](code/php-contacts/index.php) · [SQL](code/php-contacts/assignment3.sql) |
+| PHP / MySQL 联系人 | [Source](../code/php-contacts) | [PHP](../code/php-contacts/index.php) · [SQL](../code/php-contacts/assignment3.sql) |
 
-| Arduino / IoT | [Source](code/arduino-iot/) | [Arduino](code/arduino-iot/environment_motor.ino) · [Python](code/arduino-iot/iot_led_controller.py) |
+| Arduino / IoT | [Source](../code/arduino-iot) | [Arduino](../code/arduino-iot/environment_motor.ino) · [Python](../code/arduino-iot/iot_led_controller.py) |
 
-| AI + NFC 毕设 | [Implementation repository](https://github.com/xuboxiao123/NFC---3D-character-modeling) | [Case study](project-ai-nfc-character.md) |
+| AI + NFC 毕设 | [Implementation repository](https://github.com/xuboxiao123/NFC---3D-character-modeling) | [Case study](projects/project-ai-nfc-character.md) |
 
 
 
-[YOLOv5 slicing internship case study →](project-yolo-slicing.md)
+[YOLOv5 slicing internship case study →](projects/project-yolo-slicing.md)
 
 
 
@@ -92,7 +92,7 @@ Year 2 onward: creative posters, typography, personal logo, pictograms and infor
 
 
 
-### [AI + NFC Character Studio](project-ai-nfc-character.md)
+### [AI + NFC Character Studio](projects/project-ai-nfc-character.md)
 
 
 
@@ -100,7 +100,7 @@ A character-creation experience connecting generative AI, physical NFC cards, a 
 
 
 
-![AI + NFC Character Studio](capstone-model-and-nfc.jpg)
+![AI + NFC Character Studio](../assets/images/capstone-model-and-nfc.jpg)
 
 
 
@@ -108,11 +108,11 @@ A character-creation experience connecting generative AI, physical NFC cards, a 
 
 
 
-[Explore the project →](project-ai-nfc-character.md)
+[Explore the project →](projects/project-ai-nfc-character.md)
 
 
 
-### [Event Management System](project-event-manager.md)
+### [Event Management System](projects/project-event-manager.md)
 
 
 
@@ -120,7 +120,7 @@ A React event-management interface with search, date sorting, forms and an Axios
 
 
 
-![Event Management System](event-manager-react-state.jpg)
+![Event Management System](../assets/images/event-manager-react-state.jpg)
 
 
 
@@ -128,7 +128,7 @@ A React event-management interface with search, date sorting, forms and an Axios
 
 
 
-[Explore the project →](project-event-manager.md)
+[Explore the project →](projects/project-event-manager.md)
 
 
 
@@ -140,51 +140,51 @@ A React event-management interface with search, date sorting, forms and an Axios
 
 |---|---|---|
 
-| **YOLOv5-guided Object Slicing**<br>中科院实习：目标检测引导的切片算法 | Python / OpenCV / Algorithm | [Case study](project-yolo-slicing.md) |
+| **YOLOv5-guided Object Slicing**<br>中科院实习：目标检测引导的切片算法 | Python / OpenCV / Algorithm | [Case study](projects/project-yolo-slicing.md) |
 
-| **AI + NFC Character Studio**<br>AI 辅助的交互式三维人物编辑系统 | AI / Full-stack / Physical interaction | [Case study](project-ai-nfc-character.md) |
+| **AI + NFC Character Studio**<br>AI 辅助的交互式三维人物编辑系统 | AI / Full-stack / Physical interaction | [Case study](projects/project-ai-nfc-character.md) |
 
-| **Event Management System**<br>React 活动管理系统 | Web / Database | [Case study](project-event-manager.md) |
+| **Event Management System**<br>React 活动管理系统 | Web / Database | [Case study](projects/project-event-manager.md) |
 
-| **IoT Environment Monitor**<br>ESP8266 环境监测与远程控制原型 | IoT / Embedded / Python | [Case study](project-iot-monitor.md) |
+| **IoT Environment Monitor**<br>ESP8266 环境监测与远程控制原型 | IoT / Embedded / Python | [Case study](projects/project-iot-monitor.md) |
 
-| **Right Locker**<br>校园配送柜双端服务设计 | UX / Service design | [Case study](project-right-locker.md) |
+| **Right Locker**<br>校园配送柜双端服务设计 | UX / Service design | [Case study](projects/project-right-locker.md) |
 
-| **Smart Fitness**<br>智能健身产品与移动应用设计 | Product / UI / Visual identity | [Case study](project-smart-fitness.md) |
+| **Smart Fitness**<br>智能健身产品与移动应用设计 | Product / UI / Visual identity | [Case study](projects/project-smart-fitness.md) |
 
-| **Lightsaber Jump Rope**<br>光剑跳绳：游戏化健身交互概念 | Interaction / Product design | [Case study](project-lightsaber-fitness.md) |
+| **Lightsaber Jump Rope**<br>光剑跳绳：游戏化健身交互概念 | Interaction / Product design | [Case study](projects/project-lightsaber-fitness.md) |
 
-| **Modular Night Light**<br>模块化 3D 打印小夜灯 | Industrial design / Prototyping | [Case study](project-modular-lamp.md) |
+| **Modular Night Light**<br>模块化 3D 打印小夜灯 | Industrial design / Prototyping | [Case study](projects/project-modular-lamp.md) |
 
-| **PHP Contact Manager**<br>PHP＋MySQL 联系人管理系统 | Web / SQL | [Case study](project-php-contacts.md) |
+| **PHP Contact Manager**<br>PHP＋MySQL 联系人管理系统 | Web / SQL | [Case study](projects/project-php-contacts.md) |
 
 
 
-| [IoT Environment Monitor](project-iot-monitor.md) | [Right Locker](project-right-locker.md) |
+| [IoT Environment Monitor](projects/project-iot-monitor.md) | [Right Locker](projects/project-right-locker.md) |
 
 |---|---|
 
-| [![IoT Environment Monitor](iot-hardware.jpg)](project-iot-monitor.md) | [![Right Locker](right-locker-student-and-rider.jpg)](project-right-locker.md) |
+| [![IoT Environment Monitor](../assets/images/iot-hardware.jpg)](projects/project-iot-monitor.md) | [![Right Locker](../assets/images/right-locker-student-and-rider.jpg)](projects/project-right-locker.md) |
 
 | A sensor-to-controller loop using ESP8266, MQTT, Python, LEDs and a fan. | A two-sided delivery-locker experience for students and campus delivery riders. |
 
 
 
-| [Smart Fitness](project-smart-fitness.md) | [Lightsaber Jump Rope](project-lightsaber-fitness.md) |
+| [Smart Fitness](projects/project-smart-fitness.md) | [Lightsaber Jump Rope](projects/project-lightsaber-fitness.md) |
 
 |---|---|
 
-| [![Smart Fitness](smart-fitness-product-and-app.jpg)](project-smart-fitness.md) | [![Lightsaber Jump Rope](lightsaber-product-board.jpg)](project-lightsaber-fitness.md) |
+| [![Smart Fitness](../assets/images/smart-fitness-product-and-app.jpg)](projects/project-smart-fitness.md) | [![Lightsaber Jump Rope](../assets/images/lightsaber-product-board.jpg)](projects/project-lightsaber-fitness.md) |
 
 | A connected fitness concept spanning a physical product, a mobile application and visual identity. | A cordless jump-rope concept that maps exercise rhythms to game actions. |
 
 
 
-| [Modular Night Light](project-modular-lamp.md) | [PHP Contact Manager](project-php-contacts.md) |
+| [Modular Night Light](projects/project-modular-lamp.md) | [PHP Contact Manager](projects/project-php-contacts.md) |
 
 |---|---|
 
-| [![Modular Night Light](modular-lamp-product-render.jpg)](project-modular-lamp.md) | [![PHP Contact Manager](php-contacts-form-and-validation.jpg)](project-php-contacts.md) |
+| [![Modular Night Light](../assets/images/modular-lamp-product-render.jpg)](projects/project-modular-lamp.md) | [![PHP Contact Manager](../assets/images/php-contacts-form-and-validation.jpg)](projects/project-php-contacts.md) |
 
 | A configurable night-light design built around interchangeable visual components. | A server-rendered contact-management application for practising forms and SQL CRUD. |
 
@@ -222,9 +222,9 @@ This is a curated showcase of undergraduate projects and prototypes. Individual 
 
 
 
-- [Java OOP & Algorithms / Java 面向对象与算法](project-java-algorithms.md) — four coursework implementations / 四组课程实现。
+- [Java OOP & Algorithms / Java 面向对象与算法](projects/project-java-algorithms.md) — four coursework implementations / 四组课程实现。
 
-- [Echo Lecture Study Helper / 讲座学习助手](project-echo-study-helper.md) — a personal extension prototype / 个人插件原型。
+- [Echo Lecture Study Helper / 讲座学习助手](projects/project-echo-study-helper.md) — a personal extension prototype / 个人插件原型。
 
 - [Source audit / 源码核对清单](SOURCE_AUDIT.md) — recovered source, attribution and validation / 补传范围、贡献归属与验证结果。
 
@@ -232,10 +232,13 @@ This is a curated showcase of undergraduate projects and prototypes. Individual 
 
 ## Additional selected projects
 
-- [Blue Planet — group environmental product design](project-blueplanet.md): primary concept and implementation by Boxiao Xu.
-- [Multimodal AI character pose research](project-multimodal-pose.md): published research (DOI 10.61173/8wq6d604), text/image/audio generation pipeline.
-- [Web and interface design](visual-design.html): café, travel, capstone and Right Locker interfaces.
+- [Blue Planet — group environmental product design](projects/project-blueplanet.md): primary concept and implementation by Boxiao Xu.
+- [Multimodal AI character pose research](projects/project-multimodal-pose.md): published research (DOI 10.61173/8wq6d604), text/image/audio generation pipeline.
+- [Web and interface design](../pages/visual-design.html): café, travel, capstone and Right Locker interfaces.
 
 
-- [Arduino environmental sensing and automatic actuation](project-environment-control.md): separate local controller with wiring, physical prototype and serial diagnostics.
-- [ESP8266/MQTT photo gallery](iot-environment.html) · [React application screenshots](react-events.html).
+- [Arduino environmental sensing and automatic actuation](projects/project-environment-control.md): separate local controller with wiring, physical prototype and serial diagnostics.
+- [ESP8266/MQTT photo gallery](../pages/iot-environment.html) · [React application screenshots](../pages/react-events.html).
+
+
+- [Personal Learning Workbench / 个人学习平台](projects/project-learning-workbench.md): editable code notebooks, Python/SQLite backend and learning tools.

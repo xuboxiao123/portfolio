@@ -6,16 +6,16 @@ Compared the current public portfolio and capstone repository trees against rele
 
 | Recovered material / 找回内容 | Publication / 处理结果 |
 |---|---|
-| Java coursework 1: catalogue / 艺术品目录 | [Source](code/java-algorithms/assignment1/) |
-| Java coursework 2: doubly linked list / 双向链表 | [Source](code/java-algorithms/assignment2/) |
-| Java coursework 3: student BST / 学生二叉搜索树 | [Source](code/java-algorithms/assignment3/) |
-| Java coursework 4: hash table and spell checker / 哈希表与拼写检查 | [Source](code/java-algorithms/assignment4/) |
-| Echo lecture extension v0.2.0 / 讲座学习插件 | [Source](code/echo-study-helper/) |
-| ExpressEventsAPI course companion / 课程配套 API | [Reference source](code/event-api-reference/), authorship unverified / 作者未确认 |
+| Java coursework 1: catalogue / 艺术品目录 | [Source](../code/java-algorithms/assignment1) |
+| Java coursework 2: doubly linked list / 双向链表 | [Source](../code/java-algorithms/assignment2) |
+| Java coursework 3: student BST / 学生二叉搜索树 | [Source](../code/java-algorithms/assignment3) |
+| Java coursework 4: hash table and spell checker / 哈希表与拼写检查 | [Source](../code/java-algorithms/assignment4) |
+| Echo lecture extension v0.2.0 / 讲座学习插件 | [Source](../code/echo-study-helper) |
+| ExpressEventsAPI course companion / 课程配套 API | [Reference source](../code/event-api-reference), authorship unverified / 作者未确认 |
 
 ## Already published / 已有源码
 
-[React frontend](code/react-events/), [PHP + MySQL contact manager](code/php-contacts/), [Arduino + Python IoT](code/arduino-iot/), [YOLOv5-guided slicing](code/yolo-object-slicing/), and [capstone frontend/backend/ESP32 firmware](https://github.com/xuboxiao123/NFC---3D-character-modeling/blob/main/CODE_INDEX.md).
+[React frontend](../code/react-events), [PHP + MySQL contact manager](../code/php-contacts), [Arduino + Python IoT](../code/arduino-iot), [YOLOv5-guided slicing](../code/yolo-object-slicing), and [capstone frontend/backend/ESP32 firmware](https://github.com/xuboxiao123/NFC---3D-character-modeling/blob/main/CODE_INDEX.md).
 
 ## Excluded / 未当作新项目上传
 
