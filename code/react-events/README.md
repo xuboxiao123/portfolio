@@ -1,10 +1,30 @@
-# React Event Management
+# React Event Management System / React 活动管理
 
-[Project case study](../../project-event-manager.md) · [App component](src/App.jsx) · [REST API client](src/services/api.js)
+![Event list with search and date sorting](../../react-events-interface.jpg)
 
-Original student frontend source. Run `npm ci` and `npm run dev`. The original Express/MySQL API must run separately on localhost:8181. No alternate-student backend is included.
+Original student frontend: React components and Hooks, a reusable event form and an Axios REST client.
 
+- Browse and search event records.
+- Sort events by date.
+- Create and edit event details through a form.
+- Delete events after confirmation.
+- Show loading, success and request-error feedback.
 
-## Companion API / 配套接口
+## Editing interface / 编辑界面
 
-[Recovered Express + MySQL API](../event-api-reference/) matches this frontend's localhost:8181/events endpoint. It is labelled as course-companion reference material with unverified authorship. / 后端已另行归档，课程材料的贡献归属和启动方法见该目录。
+![Update Event form](../../react-events-edit.jpg)
+
+[Full project notes](../../project-event-manager.md) · [App component](src/App.jsx) · [REST API client](src/services/api.js)
+
+## Run the frontend
+
+```sh
+npm ci
+npm run dev
+```
+
+Requires Node.js and a compatible events API. The original client targets `http://localhost:8181/events`; update the API client for your environment. Event records use `id`, `name`, `description`, `startdate` and `enddate`.
+
+[Recovered Express/MySQL companion API](../event-api-reference/) is stored separately as course reference material. It is not claimed as independently authored backend work. Screenshots show the owner-provided interface; they do not establish a fresh end-to-end test of the archive.
+
+[← Source index](../README.md) · [Portfolio README](../../README.md)
