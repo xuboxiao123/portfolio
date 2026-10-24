@@ -1,6 +1,6 @@
 # Image sources and scope
 
-This showcase was curated from the external-drive project archive and the project descriptions on the owner’s BOSS resume. BOSS page screenshots, contact information, interviewee portraits, grades, institutional datasets, server credentials and third-party submission folders are not included.
+This showcase was curated from the external-drive project archive and the project descriptions on the owner’s BOSS resume. BOSS page screenshots, contact information, interviewee portraits, grades, institutional internship files and third-party submission folders are not included.
 
 | Section | Original material | Publication treatment |
 |---|---|---|
@@ -21,11 +21,11 @@ React frontend files are copied from the owner's submission folder. Code is reta
 
 Project descriptions were checked against available source code, report pages, screenshots and archived notes. No current AI generation, physical hardware execution or database-backed end-to-end run is claimed by publishing this repository.
 
-## Source publication update
 
-React, PHP/SQL and Arduino/IoT sources are now browsable under code/. PHP local database settings were parameterised with environment variables. The YOLOv5 slicing source was selected after the owner identified the slicing algorithm as his main internship contribution. Its original detector licence notice is retained. No remote-service scripts containing server credentials, institutional image data or model weights were uploaded.
+## Updated selected works
 
-
-## Recovered E: source / E 盘补充源码
-
-See [SOURCE_AUDIT.md](SOURCE_AUDIT.md) for the source audit and validation scope. Java files were recovered from E:/eclipse/workspace/a/src; Eclipse copies and submitted ZIPs were deduplicated. Course helper authorship is retained. The Echo prototype comes from E:/Codex/2026-09-25/unsw-ai-echovideo-assistant. The Events API comes from E:/下载/ExpressEventsAPI(1).zip and is identified as course-companion reference material, not a newly verified independent contribution. Database configuration in that publication copy uses environment variables; schema.example.sql is explicitly reconstructed from queries.
+- Travel interface: owner-supplied `32211052Dio - Assignment3.png`; four-screen review interface and feature panel.
+- MOLD. capstone: owner-supplied `32211052 许博骁 模板.pdf`; product and interface crops.
+- Blue Planet: supplied team board `BluePlanet(Dio,Young,Alioth,Miuna）.pdf`; prototype and structure crops. Team: Dio, Young, Alioth, Miuna. Boxiao Xu contributed the primary product concept and project implementation, as clarified by the owner.
+- Extract Hour Café: original student `32211052DioAssignment2.pdf`, pages 12–13, and the existing website walkthrough. Coursework design studies and WordPress implementation; third-party photographs and brand imagery retain their ownership.
+- Multimodal pose research: owner-supplied `PHLCSHY-401001-G5-终稿(1).docx`, author Boxiao Xu. Original manuscript and extracted method/results figures. Publication verified against the publisher record: https://stecep.deanfrancis.press/article/view/482; DOI 10.61173/8wq6d604, published 19 December 2025.

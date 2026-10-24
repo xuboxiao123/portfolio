@@ -19,7 +19,7 @@ The online portfolio is publicly hosted on GitHub Pages. No local server or acco
 
 | [AI + NFC Character Studio / AI 与 NFC 毕设](project-ai-nfc-character.md) | [Smart Travel / 旅行产品](project-smart-travel.md) | [Modular Night Light / 模块化小夜灯](project-modular-lamp.md) |
 |:---:|:---:|:---:|
-| [![AI + NFC physical prototype](thumb-capstone.jpg)](https://xuboxiao123.github.io/portfolio/product-capstone.html) | [![Smart Travel final visual](thumb-travel-design.jpg)](https://xuboxiao123.github.io/portfolio/travel-design.html) | [![Modular night light render](thumb-lamp.jpg)](https://xuboxiao123.github.io/portfolio/product-lamp.html) |
+| [![AI + NFC capstone product render](thumb-capstone.jpg)](https://xuboxiao123.github.io/portfolio/product-capstone.html) | [![Smart Travel final visual](thumb-travel-design.jpg)](https://xuboxiao123.github.io/portfolio/travel-design.html) | [![Modular night light render](thumb-lamp.jpg)](https://xuboxiao123.github.io/portfolio/product-lamp.html) |
 | Generative AI, NFC controls and 3D printing.<br>生成式 AI、NFC 实体控制与 3D 打印。 | Three concepts: review platform, smartwatch companion and dynamic itinerary card.<br>评价平台、旅行状态手表与动态行程卡。 | Rhino, KeyShot and a modular physical prototype.<br>Rhino、KeyShot 与模块化实体原型。 |
 | [Source code / 源码](https://github.com/xuboxiao123/NFC---3D-character-modeling) · [Video / 视频](https://xuboxiao123.github.io/portfolio/films.html#capstone-model) | [Three concepts / 三个方案](https://xuboxiao123.github.io/portfolio/travel-design.html) · [Iteration / 迭代过程](https://xuboxiao123.github.io/portfolio/travel-process.html) | [Project / 项目介绍](project-modular-lamp.md) |
 
@@ -27,15 +27,33 @@ More product work: [Super Fitness / 水杯哑铃](project-smart-fitness.md) · [
 
 **[Browse product renders / 查看产品效果图 →](https://xuboxiao123.github.io/portfolio/products.html)**
 
+### Blue Planet / 环保产品设计
+
+[![Blue Planet prototype](thumb-blueplanet.jpg)](https://xuboxiao123.github.io/portfolio/product-blueplanet.html)
+
+**Group coursework. My role: primary product concept and project implementation.**<br>小组作业；我的贡献：主要产品构想与项目实现。Team: Dio, Young, Alioth, Miuna.
+
+[Project & contribution / 项目与个人贡献](project-blueplanet.md)
+
 ## Frontend & visual work / 前端与视觉作品
 
-| [Travel Website / 大二旅行网站](project-travel-website.md) | [Posters & Visual Design / 海报与视觉设计](project-visual-design.md) |
+| [Travel Website / 大二旅行网站](project-travel-website.md) | [Extract Hour Café / 咖啡网站设计](https://xuboxiao123.github.io/portfolio/coffee-website.html) |
 |:---:|:---:|
-| [![Travel website interface](thumb-travel-website.jpg)](https://xuboxiao123.github.io/portfolio/travel-website.html) | [![Creative poster](thumb-creative-poster.jpg)](https://xuboxiao123.github.io/portfolio/visual-design.html) |
-| HTML/CSS/JavaScript: destinations, accommodation, reviews and itinerary pages.<br>目的地、住宿、评价与行程页面，已补原始前端源码。 | Year 2 onward: posters, typography, personal identity, pictograms and information design.<br>仅收录大二及之后的海报、字体、标志、图标和信息设计。 |
-| [Preview / 预览](https://xuboxiao123.github.io/portfolio/travel-website.html) · [Source / 源码](travel-website-source.zip) | [Poster gallery / 海报分类](https://xuboxiao123.github.io/portfolio/visual-design.html) · [Logo / 个人标志](https://xuboxiao123.github.io/portfolio/visual-personal-identity.html) |
+| [![Travel website interface](thumb-travel-website.jpg)](https://xuboxiao123.github.io/portfolio/travel-website.html) | [![Coffee website design](thumb-coffee-web.jpg)](https://xuboxiao123.github.io/portfolio/coffee-website.html) |
+| HTML/CSS/JavaScript: destinations, accommodation, reviews and itinerary pages.<br>目的地、住宿、评价与行程页面，附原始前端源码。 | WordPress website: visual direction, page composition and navigation.<br>咖啡网站视觉、页面布局与导航设计。 |
+| [Preview / 预览](https://xuboxiao123.github.io/portfolio/travel-website.html) · [Source / 源码](travel-website-source.zip) | [Design details / 网页设计](https://xuboxiao123.github.io/portfolio/coffee-website.html) · [Video / 演示](https://xuboxiao123.github.io/portfolio/films.html#coffee-website) |
+
+**[Web & interface design gallery / 网页与界面设计](https://xuboxiao123.github.io/portfolio/visual-design.html)**
 
 Other interface projects: [React Event Manager / React 活动管理](project-event-manager.md) · [Right Locker / 配送柜双端 UI/UX](project-right-locker.md) · [Coffee website film / 咖啡网站视频](https://xuboxiao123.github.io/portfolio/films.html#coffee-website).
+
+## Multimodal AI research / 多模态 AI 生成研究
+
+**Character pose generation and editing with text, image and audio prompts.** Author: **Boxiao Xu**. Published in *Science and Technology of Engineering, Chemistry and Environmental Protection*, **Vol. 3, No. 6 (2025), article 13432**, on **19 December 2025**.
+
+文本、图像、音频提示融合，连接二维姿态编辑、多视图生成与三维重建。
+
+[Project & figures / 项目与图示](https://xuboxiao123.github.io/portfolio/research.html) · [Published article / 正式发表论文](https://stecep.deanfrancis.press/article/view/482) · [DOI: 10.61173/8wq6d604](https://doi.org/10.61173/8wq6d604) · [Author manuscript / 作者原稿](multimodal-character-pose-paper.docx) · [Summary / 简介](project-multimodal-pose.md)
 
 ## Backend, algorithms & source code / 后端、算法与源码
 
@@ -52,7 +70,7 @@ Other interface projects: [React Event Manager / React 活动管理](project-eve
 
 ## Explore by category / 分类浏览
 
-[Products / 产品](https://xuboxiao123.github.io/portfolio/products.html) · [Frontend / 前端](https://xuboxiao123.github.io/portfolio/frontend.html) · [Backend / 后端](https://xuboxiao123.github.io/portfolio/backend.html) · [Posters / 海报](https://xuboxiao123.github.io/portfolio/visual-design.html) · [Films / 视频](https://xuboxiao123.github.io/portfolio/films.html)
+[Products / 产品](https://xuboxiao123.github.io/portfolio/products.html) · [Frontend / 前端](https://xuboxiao123.github.io/portfolio/frontend.html) · [Backend / 后端](https://xuboxiao123.github.io/portfolio/backend.html) · [Web Design / 网页设计](https://xuboxiao123.github.io/portfolio/visual-design.html) · [Films / 视频](https://xuboxiao123.github.io/portfolio/films.html)
 
 [Full project catalogue / 完整目录](PROJECTS.md) · [Source audit / 源码核对](SOURCE_AUDIT.md) · [Image sources / 图片来源](SOURCES.md)
 

@@ -228,3 +228,10 @@ This is a curated showcase of undergraduate projects and prototypes. Individual 
 
 - [Source audit / 源码核对清单](SOURCE_AUDIT.md) — recovered source, attribution and validation / 补传范围、贡献归属与验证结果。
 
+
+
+## Additional selected projects
+
+- [Blue Planet — group environmental product design](project-blueplanet.md): primary concept and implementation by Boxiao Xu.
+- [Multimodal AI character pose research](project-multimodal-pose.md): published research (DOI 10.61173/8wq6d604), text/image/audio generation pipeline.
+- [Web and interface design](visual-design.html): café, travel, capstone and Right Locker interfaces.
