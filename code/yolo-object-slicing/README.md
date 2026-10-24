@@ -1,6 +1,6 @@
 # YOLOv5-guided Object Slicing
 
-[Portfolio case study](../../project-yolo-slicing.md) · **[Core slicing function](object_slicing.py)** · [Original modified inference script](detect_with_object_slicing.py)
+[Portfolio case study](../../docs/projects/project-yolo-slicing.md) · **[Core slicing function](object_slicing.py)** · [Original modified inference script](detect_with_object_slicing.py)
 
 ## Personal contribution
 Boxiao Xu identified the post-detection slicing algorithm as his principal internship contribution. YOLOv5 is the upstream detector. The code here demonstrates the processing added around detector output, rather than authorship of the detection network.
@@ -23,3 +23,4 @@ This archived version implements object crops and their enclosing region. It doe
 
 ## Attribution
 The original inference script carries the Ultralytics AGPL-3.0 notice, which is retained. The extracted function is distributed with the same notice. Upstream model/runtime code and model weights are not bundled.
+
