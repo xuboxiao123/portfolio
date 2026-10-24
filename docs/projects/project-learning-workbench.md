@@ -8,6 +8,16 @@ A personal learning platform that connects course organisation, programming prac
 
 **Stack:** JavaScript · HTML/CSS · Python HTTP server · SQLite · JSON · local language toolchains.
 
+## Key features / 主要功能
+
+- **Exam planning:** brings exam dates, times, locations, revision scope and permitted materials into one view, alongside source and verification details.
+- **Assignment and deadline tracking:** groups submissions and assessments by this week, next week and later; shows Sydney and Beijing times and stores the user's completion confirmations.
+- **Knowledge organisation:** connects course and weekly notes with topic cards, searchable mind maps, explanations, examples and related experiments; records self-assessed mastery and mistakes for review.
+- **Programming practice:** provides editable code cells, standard input and local execution for Python, Java, C/C++ and PHP, with results and error feedback.
+- **Learning software and resources:** connects study activities to VS Code, Arduino IDE, Android Studio and Figma, plus course materials and supporting document tools, depending on installed applications.
+
+Exam and deadline entries retain their course-source context. A personal completion check records progress; official course announcements and submission receipts remain the confirmation source.
+
 ## Editable code and real execution / 代码编辑与实际运行
 
 ![Editable C notebook with completed output](../../assets/images/learning-workbench-code-run.jpg)
