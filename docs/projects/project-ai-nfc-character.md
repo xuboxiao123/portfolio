@@ -1,16 +1,16 @@
-[← Portfolio](README.md)
+[← Portfolio](../../README.md)
 
 # AI + NFC Character Studio
 
-![MOLD. physical product and interaction terminal](product-capstone-render.jpg)
+![MOLD. physical product and interaction terminal](../../assets/images/product-capstone-render.jpg)
 
 **My work:** Vue interfaces, Spring Boot/MySQL integration, AI generation workflows and ESP32/RC522 physical interaction.
 
-[Source code](https://github.com/xuboxiao123/NFC---3D-character-modeling) · [Interface video](https://xuboxiao123.github.io/portfolio/films.html#capstone-interface) · [Physical interaction video](https://xuboxiao123.github.io/portfolio/films.html#capstone-model)
+[Source code](https://github.com/xuboxiao123/NFC---3D-character-modeling) · [Interface video](https://xuboxiao123.github.io/portfolio/pages/films.html#capstone-interface) · [Physical interaction video](https://xuboxiao123.github.io/portfolio/pages/films.html#capstone-model)
 
 ## Web interface / 网页界面
 
-![Character creation, editing and community screens](capstone-selected-interface.jpg)
+![Character creation, editing and community screens](../../assets/images/capstone-selected-interface.jpg)
 
 
 [▶ 在线播放全部 5 段视频](https://xuboxiao123.github.io/portfolio/)
@@ -38,16 +38,16 @@ Traditional 3D tools can be difficult for first-time users. The project explores
 - A shared visual system brings together model creation, editing, community browsing and postcard-style presentation.
 
 ## Visual evidence
-![Model preview, NFC presets and character editing](capstone-model-and-nfc.jpg)
+![Model preview, NFC presets and character editing](../../assets/images/capstone-model-and-nfc.jpg)
 *Final interface boards from the original 2026 capstone process book, page 35.*
 
-![Interface overview](capstone-interface-overview.jpg)
+![Interface overview](../../assets/images/capstone-interface-overview.jpg)
 *Original interface overview, page 34.*
 
-![Physical interaction and interface development](capstone-interaction-development.jpg)
+![Physical interaction and interface development](../../assets/images/capstone-interaction-development.jpg)
 *Development record and physical interaction images, page 33.*
 
-![Design system](capstone-design-system.jpg)
+![Design system](../../assets/images/capstone-design-system.jpg)
 *Typography, colours, interface components and layout exploration, page 26.*
 
 ## Scope
@@ -62,5 +62,5 @@ Undergraduate capstone prototype and design case study. The boards document the 
 - [▶ 毕设 · 界面展示（2:00）](https://xuboxiao123.github.io/portfolio/#capstone-interface)
 - [▶ 毕设 · 模型部分（2:29）](https://xuboxiao123.github.io/portfolio/#capstone-model)
 
-[查看全部项目视频 →](VIDEOS.md)
+[查看全部项目视频 →](../VIDEOS.md)
 

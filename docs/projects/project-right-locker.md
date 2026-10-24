@@ -1,8 +1,8 @@
-[← Portfolio](README.md)
+[← Portfolio](../../README.md)
 
 # Right Locker
 
-![Right Locker student and courier interfaces](right-locker-selected-ui.jpg)
+![Right Locker student and courier interfaces](../../assets/images/right-locker-selected-ui.jpg)
 
 
 [▶ 在线播放全部 5 段视频](https://xuboxiao123.github.io/portfolio/)
@@ -28,10 +28,10 @@ Explore campus locker locations, choose a locker, check status/distance and foll
 ## Rider experience
 Review delivery details, navigate to a campus locker and verify its unique code/QR before drop-off. Exception flows include reporting a problem and attaching evidence.
 
-![Student and rider interfaces](right-locker-student-and-rider.jpg)
+![Student and rider interfaces](../../assets/images/right-locker-student-and-rider.jpg)
 *Original project presentation, page 5.*
 
-![Wireframes and functional architecture](right-locker-wireframes.jpg)
+![Wireframes and functional architecture](../../assets/images/right-locker-wireframes.jpg)
 *Original project presentation, page 4.*
 
 ## Scope
@@ -42,5 +42,5 @@ UI/UX and service-design proposal. Screens document the proposed experience; a d
 
 - [▶ Right Locker · 外卖柜 App（2:16）](https://xuboxiao123.github.io/portfolio/#right-locker)
 
-[查看全部项目视频 →](VIDEOS.md)
+[查看全部项目视频 →](../VIDEOS.md)
 

@@ -1,12 +1,12 @@
-[← Portfolio](README.md)
+[← Portfolio](../../README.md)
 
 # IoT Environment Monitor
 
-![ESP8266 and MQTT annotated hardware prototype](mqtt-annotated-prototype.jpg)
+![ESP8266 and MQTT annotated hardware prototype](../../assets/images/mqtt-annotated-prototype.jpg)
 
 
 
-[Project gallery](https://xuboxiao123.github.io/portfolio/iot-environment.html) · [Python MQTT controller](code/arduino-iot/iot_led_controller.py) · [Separate Arduino project](project-environment-control.md)
+[Project gallery](https://xuboxiao123.github.io/portfolio/pages/iot-environment.html) · [Python MQTT controller](../../code/arduino-iot/iot_led_controller.py) · [Separate Arduino project](project-environment-control.md)
 
 **ESP8266 环境监测与远程控制原型**
 
@@ -27,11 +27,11 @@ The original proposal explores keeping 3D-printing filament dry. The proof of co
 
 The source controller distinguishes red, yellow and green states using light, humidity and temperature thresholds. The fan is enabled in the red state, with shutdown messages on disconnect/exit.
 
-![Annotated prototype](mqtt-annotated-prototype.jpg)
-![Physical prototype tests](mqtt-prototype-tests.jpg)
+![Annotated prototype](../../assets/images/mqtt-annotated-prototype.jpg)
+![Physical prototype tests](../../assets/images/mqtt-prototype-tests.jpg)
 *Original Assignment 2B report, pages 2 and 6.*
 
-[Read the original Python controller](iot_led_controller.py)
+[Read the original Python controller](../../code/legacy/iot_led_controller.py)
 
 ## Scope
 Bench proof of concept with a motor/fan. The initial proposal mentions DHT22; the implementation report and code document DHT11. Firmware with Wi-Fi configuration is not distributed in this showcase.
@@ -40,9 +40,9 @@ Bench proof of concept with a motor/fan. The initial proposal mentions DHT22; th
 
 ## System, wiring and messaging evidence
 
-![System concept](mqtt-system-overview.jpg)
-![Wiring](mqtt-wiring.jpg)
-![MQTT messages](mqtt-sensor-messages.jpg)
-![Serial output](mqtt-serial-output.jpg)
+![System concept](../../assets/images/mqtt-system-overview.jpg)
+![Wiring](../../assets/images/mqtt-wiring.jpg)
+![MQTT messages](../../assets/images/mqtt-sensor-messages.jpg)
+![Serial output](../../assets/images/mqtt-serial-output.jpg)
 
 Additional images supplied by the owner. The system diagram is a concept reference; the bench tests demonstrate the sensor, LED and motor/fan control loop.

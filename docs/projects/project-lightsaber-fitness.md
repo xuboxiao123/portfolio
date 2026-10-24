@@ -1,4 +1,4 @@
-[← Portfolio](README.md)
+[← Portfolio](../../README.md)
 
 # Lightsaber Jump Rope
 
@@ -15,7 +15,7 @@ The cordless rope handles also act as motion controllers. The design maps one ju
 
 A music/running-game scenario gives users feedback through obstacles, enemies, scores and a proposed household leaderboard.
 
-![Original concept presentation](lightsaber-product-board.jpg)
+![Original concept presentation](../../assets/images/lightsaber-product-board.jpg)
 *Original product and interaction board. Game imagery communicates the intended use scenario.*
 
 ## Scope

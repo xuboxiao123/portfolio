@@ -2,9 +2,9 @@
 
 **Group coursework · Environmental product design**
 
-![Blue Planet working prototype](blueplanet-prototype.jpg)
+![Blue Planet working prototype](../../assets/images/blueplanet-prototype.jpg)
 
-[Open project / 查看项目](https://xuboxiao123.github.io/portfolio/product-blueplanet.html)
+[Open project / 查看项目](https://xuboxiao123.github.io/portfolio/pages/product-blueplanet.html)
 
 An interactive educational product that makes marine pollution visible and tangible for children aged 4–12. The physical prototype combines a marine scene, detectors and light feedback. The group report describes evaluation at a wetland museum and identifies opportunities to improve guidance and interaction depth.
 
@@ -17,6 +17,6 @@ Team: Dio, Young, Alioth and Miuna. This is a collaborative project; shared rese
 
 ## Structure / 结构
 
-![Structure](blueplanet-structure.jpg)
+![Structure](../../assets/images/blueplanet-structure.jpg)
 
 Source: the supplied BluePlanet team project board. Crops focus on the prototype and structure; participant photographs and unrelated QR destinations are omitted.

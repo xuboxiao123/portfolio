@@ -2,11 +2,11 @@
 
 **Author: Boxiao Xu · Published research**
 
-[Project & figures / 项目与图示](https://xuboxiao123.github.io/portfolio/research.html) · [Original English manuscript (.docx)](multimodal-character-pose-paper.docx)
+[Project & figures / 项目与图示](https://xuboxiao123.github.io/portfolio/pages/research.html) · [Original English manuscript (.docx)](../../downloads/multimodal-character-pose-paper.docx)
 
 Original title: *Character Pose Generation and Editing Method Based on Large Model and Multi-modal Prompt Words*.
 
-![Generated pose examples](research-pose-results.jpg)
+![Generated pose examples](../../assets/images/research-pose-results.jpg)
 
 ## Approach
 
@@ -15,7 +15,7 @@ Original title: *Character Pose Generation and Editing Method Based on Large Mod
 - Process a character model or reference image through 2D pose editing, multi-view image generation and 3D reconstruction.
 - Connect model services through APIs; the manuscript discusses Stable Diffusion and Hunyuan3D components.
 
-![Method diagram](research-pose-method.jpg)
+![Method diagram](../../assets/images/research-pose-method.jpg)
 
 ## Publication
 

@@ -1,4 +1,4 @@
-[← Portfolio](README.md)
+[← Portfolio](../../README.md)
 
 # Modular Night Light
 
@@ -13,10 +13,10 @@ A configurable night-light design built around interchangeable visual components
 ## Design focus
 Explore how interchangeable modules can let users personalise a small lighting product. The work combines exterior design, component modelling, product visualisation and a 3D-printing prototype workflow.
 
-![Night-light rendering](modular-lamp-product-render.jpg)
+![Night-light rendering](../../assets/images/modular-lamp-product-render.jpg)
 *Original product rendering.*
 
-![Component modelling](modular-lamp-model.jpg)
+![Component modelling](../../assets/images/modular-lamp-model.jpg)
 *Original modelling visual.*
 
 ## Scope and attribution

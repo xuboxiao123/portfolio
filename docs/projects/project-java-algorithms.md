@@ -1,4 +1,4 @@
-[← Portfolio / 作品集](README.md)
+[← Portfolio / 作品集](../../README.md)
 
 # Java OOP & Algorithms / Java 面向对象与算法
 
@@ -8,9 +8,9 @@ Four COMPX201 coursework implementations: an art catalogue using inheritance; a 
 
 ## Source / 源码
 
-- [Browse all source / 浏览全部代码](code/java-algorithms/)
-- [Download complete archive / 下载源码包](java-algorithms-source.zip)
-- [MyList](code/java-algorithms/assignment2/MyList.java) · [StudentTree](code/java-algorithms/assignment3/StudentTree.java) · [MyHashTable](code/java-algorithms/assignment4/MyHashTable.java)
+- [Browse all source / 浏览全部代码](../../code/java-algorithms)
+- [Download complete archive / 下载源码包](../../downloads/java-algorithms-source.zip)
+- [MyList](../../code/java-algorithms/assignment2/MyList.java) · [StudentTree](../../code/java-algorithms/assignment3/StudentTree.java) · [MyHashTable](../../code/java-algorithms/assignment4/MyHashTable.java)
 
 Course-provided interfaces and helper classes retain their original author credits; the source README identifies Boxiao Xu's implementations separately. / 教师骨架保留原署名，贡献范围见源码目录。
 

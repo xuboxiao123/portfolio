@@ -1,16 +1,16 @@
-[← Portfolio](README.md)
+[← Portfolio](../../README.md)
 
 # PHP Contact Manager
 
-![PHP form handling and validation — source excerpt](php-contacts-form-and-validation.jpg)
+![PHP form handling and validation — source excerpt](../../assets/images/php-contacts-form-and-validation.jpg)
 
 **Backend work:** server-rendered contact forms, request validation, SQL writes and CRUD navigation.
 
-[PHP source](code/php-contacts/) · [SQL schema](code/php-contacts/assignment3.sql)
+[PHP source](../../code/php-contacts) · [SQL schema](../../code/php-contacts/assignment3.sql)
 
 
 
-[Browse PHP source](code/php-contacts/) · [SQL schema](code/php-contacts/assignment3.sql)
+[Browse PHP source](../../code/php-contacts) · [SQL schema](../../code/php-contacts/assignment3.sql)
 
 **PHP＋MySQL 联系人管理系统**
 
@@ -25,7 +25,7 @@ Contact list → contact details → add or edit form → database update. A del
 
 The original project contains seven PHP files. The inspected version has no login page; this case study does not claim an authentication feature.
 
-![Original PHP form-handling code](php-contacts-form-and-validation.jpg)
+![Original PHP form-handling code](../../assets/images/php-contacts-form-and-validation.jpg)
 *Formatted image of original source code, not a live application screenshot.*
 
 ## Scope

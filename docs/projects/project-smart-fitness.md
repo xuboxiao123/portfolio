@@ -1,4 +1,4 @@
-[← Portfolio](README.md)
+[← Portfolio](../../README.md)
 
 # Smart Fitness
 
@@ -16,7 +16,7 @@ A connected fitness concept spanning a physical product, a mobile application an
 - Weight and nutrition tracking, workout content and community participation.
 - Product presentation and a coordinated visual language across physical and digital touchpoints.
 
-![Original fitness product and app presentation](smart-fitness-product-and-app.jpg)
+![Original fitness product and app presentation](../../assets/images/smart-fitness-product-and-app.jpg)
 *Original product-system project poster. Click the image to inspect the full board.*
 
 ## Scope
