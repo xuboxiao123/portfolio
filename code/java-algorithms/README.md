@@ -4,10 +4,10 @@ Four completed COMPX201 coursework exercises recovered from the original Eclipse
 
 | Exercise | Implementation by Boxiao Xu | Focus |
 |---|---|---|
-| [assignment1](assignment1/) | ArtPieceOnSale, Catalogue | Inheritance, catalogue display / 继承与目录展示 |
-| [assignment2](assignment2/) | MyList, MyListTest | Doubly linked list / 双向链表 |
-| [assignment3](assignment3/) | StudentTree, StudentTreeReader, StudentTreeTest | Binary search tree, file input, JUnit / 二叉搜索树与测试 |
-| [assignment4](assignment4/) | MyHashTable, MyHashTableTest, SpellChecker | Double hashing and spell checking / 双重哈希与拼写检查 |
+| [assignment1](assignment1) | ArtPieceOnSale, Catalogue | Inheritance, catalogue display / 继承与目录展示 |
+| [assignment2](assignment2) | MyList, MyListTest | Doubly linked list / 双向链表 |
+| [assignment3](assignment3) | StudentTree, StudentTreeReader, StudentTreeTest | Binary search tree, file input, JUnit / 二叉搜索树与测试 |
+| [assignment4](assignment4) | MyHashTable, MyHashTableTest, SpellChecker | Double hashing and spell checking / 双重哈希与拼写检查 |
 
 ## Attribution / 贡献范围
 
@@ -25,3 +25,4 @@ java -cp out assignment2.MyListTest
 ```
 
 StudentTreeTest and MyHashTableTest require JUnit Jupiter 5; add it to your IDE/build classpath. JUnit tests are archived as written, not claimed to have been run in this publication pass. Student CSV data, spreadsheets, compiled classes and Eclipse metadata are excluded. / JUnit 测试需另配依赖；本次不声称已运行。未上传学生数据表、编译产物和 IDE 缓存。
+
