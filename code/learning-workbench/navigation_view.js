@@ -1,0 +1,3 @@
+function setNavigationCollapsed(collapsed){document.body.classList.toggle('navigation-collapsed',collapsed);let b=document.getElementById('navigation-toggle');b.setAttribute('aria-expanded',String(!collapsed));b.setAttribute('aria-label',collapsed?'展开左侧导航':'收起左侧导航');b.title=collapsed?'展开左侧导航':'收起左侧导航';b.textContent=collapsed?'☰':'‹';try{localStorage.setItem('study-navigation-collapsed',String(collapsed))}catch{}}
+try{setNavigationCollapsed(localStorage.getItem('study-navigation-collapsed')==='true')}catch{setNavigationCollapsed(false)}
+document.getElementById('navigation-toggle').addEventListener('click',()=>setNavigationCollapsed(!document.body.classList.contains('navigation-collapsed')));

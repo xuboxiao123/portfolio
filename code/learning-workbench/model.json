@@ -1,0 +1,183 @@
+{
+  "version": "Public source demo",
+  "notebooks": [
+    {
+      "id": "c-stack",
+      "title": "C栈：接口、状态与后进先出",
+      "language": "C",
+      "course": "9024",
+      "lead": "完整可编译程序；改变push顺序，先手算pop结果，再运行。",
+      "cells": [
+        {
+          "title": "完整程序",
+          "code": "#include <stdio.h>\n#include <stdbool.h>\n#define CAP 8\ntypedef struct { int items[CAP]; int size; } Stack;\nbool push(Stack *s,int x){if(s->size==CAP)return false;s->items[s->size++]=x;return true;}\nbool pop(Stack *s,int *x){if(s->size==0)return false;*x=s->items[--s->size];return true;}\nint main(void){Stack s={.size=0};int x;push(&s,2);push(&s,5);push(&s,8);while(pop(&s,&x))printf(\"%d\\n\",x);return 0;}"
+        }
+      ],
+      "source": "",
+      "topics": [
+        "stackqueue",
+        "adt"
+      ],
+      "fixtures": {},
+      "stage": "compute",
+      "origin": "Self-contained stack demonstration for the public source snapshot."
+    },
+    {
+      "id": "python-demo",
+      "title": "Python — editable demonstration",
+      "language": "Python",
+      "course": "Demo",
+      "lead": "Edit the values and run this standalone example.",
+      "cells": [
+        "values = [2, 5, 8]\nprint(list(reversed(values)))"
+      ],
+      "source": "",
+      "topics": [],
+      "fixtures": {},
+      "stage": "compute",
+      "origin": "Public demonstration data"
+    }
+  ],
+  "stages": [
+    {
+      "id": "research",
+      "title": "调研：把需求写成可验证问题",
+      "role": "工业设计 / 用户研究",
+      "goal": "谁在什么场景遇到什么困难？观察证据和猜测分开记录。",
+      "deliverable": "用户与场景、访谈问题、需求优先级、验收指标",
+      "bridge": "9020的命题、集合与函数帮你把模糊需求变为输入、规则和输出；不要先选技术再找需求。",
+      "topics": [
+        "logic",
+        "proof",
+        "function"
+      ],
+      "books": [],
+      "sources": []
+    },
+    {
+      "id": "form",
+      "title": "结构与外观：给电子功能一个产品载体",
+      "role": "工业设计 / 建模 / 材料",
+      "goal": "布局传感器、电源、外壳与装配，验证尺寸、维护和操作可达性。",
+      "deliverable": "结构草图、尺寸约束、外观方向、材料与部件清单",
+      "bridge": "接口也是物理约束：传感器位置、按钮触感和充电方式决定后续软件状态。",
+      "topics": [
+        "function",
+        "k29"
+      ],
+      "books": [],
+      "sources": []
+    },
+    {
+      "id": "interaction",
+      "title": "交互：先设计任务流与状态",
+      "role": "Figma / 设计系统",
+      "goal": "设计读取状态、控制设备与出错恢复。让屏幕、灯和实体按钮给一致反馈。",
+      "deliverable": "任务流、线框、组件与正常/断连/加载/错误状态",
+      "bridge": "Figma原型验证操作逻辑；HTML与安卓组件实现它。设计组件不等于硬件或后端已经可用。",
+      "topics": [
+        "k29",
+        "logic"
+      ],
+      "books": [],
+      "sources": []
+    },
+    {
+      "id": "device",
+      "title": "智能化：读取传感器并执行动作",
+      "role": "Arduino / C / 后续 C++、ESP32",
+      "goal": "从输入、逻辑、循环到状态机，再处理时间、内存和设备边界。",
+      "deliverable": "能编译的Sketch、采样与控制规则、硬件测试记录",
+      "bridge": "9021图灵机教你状态转移；9024的数组、队列与内存用在采样缓冲；9020逻辑定义控制条件。",
+      "topics": [
+        "turing",
+        "queue",
+        "memory",
+        "logic"
+      ],
+      "books": [],
+      "sources": []
+    },
+    {
+      "id": "iot",
+      "title": "连接：设备消息能被电脑和手机理解",
+      "role": "串口 / JSON / HTTP / MQTT",
+      "goal": "定义字段、单位、时间戳、topic与错误处理，再选择传输方式。",
+      "deliverable": "数据契约、消息流程、断线与重连策略",
+      "bridge": "ESP32可产生消息，树莓派可做网关/服务；浏览器与手机通过服务访问。不能把MQTT、HTTP和串口当同一层。",
+      "topics": [
+        "pyfile",
+        "function",
+        "k20"
+      ],
+      "books": [],
+      "sources": []
+    },
+    {
+      "id": "backend",
+      "title": "后端：校验、计算、保存和提供接口",
+      "role": "Java / PHP / Python / 数据库",
+      "goal": "把设备数据变为可查询记录与可追溯决策，明确客户端与服务端责任。",
+      "deliverable": "接口、数据库、校验、状态码、可重复测试",
+      "bridge": "同一JSON契约可由Java、PHP或Python实现；算法与数据结构服务于处理需求，框架不是后端定义。",
+      "topics": [
+        "k20",
+        "function",
+        "graphrepr",
+        "complexity"
+      ],
+      "books": [],
+      "sources": []
+    },
+    {
+      "id": "frontend",
+      "title": "网页：展示、交互与异步请求",
+      "role": "HTML / CSS / JavaScript",
+      "goal": "结构、样式、交互分开；向接口请求数据，表现加载、空数据和错误状态。",
+      "deliverable": "能点击的面板、响应式布局、真实请求与反馈",
+      "bridge": "HTML定义结构、CSS样式、JS行为；Figma组件映射为页面组件；PHP/Java可返回JSON，页面无需整页刷新。",
+      "topics": [
+        "k20",
+        "k29"
+      ],
+      "books": [],
+      "sources": []
+    },
+    {
+      "id": "mobile",
+      "title": "手机：安卓界面与设备体验",
+      "role": "Android Studio / Java或Kotlin",
+      "goal": "复用后端契约，处理生命周期、权限与连接变化，让手机任务与实体操作一致。",
+      "deliverable": "Android项目、界面状态、接口调用和真机测试",
+      "bridge": "Java知识可用于Android，但后端Java服务与Android UI是不同项目。树莓派/ESP32也不直接替代手机界面。",
+      "topics": [
+        "k20",
+        "k29"
+      ],
+      "books": [],
+      "sources": []
+    },
+    {
+      "id": "verify",
+      "title": "联调：从一个按钮走完整条链",
+      "role": "全栈验证 / 复盘",
+      "goal": "按需求测试采样 → 通信 → 服务 → 保存 → 界面 → 控制返回，识别在哪一层失败。",
+      "deliverable": "测试表、日志、性能与可用性记录、迭代决定",
+      "bridge": "9020证明/反例 + 9024复杂度/内存 + 9021自动化实验，共同支持你的产品判断。",
+      "topics": [
+        "proof",
+        "complexity",
+        "memory"
+      ],
+      "books": [],
+      "sources": []
+    }
+  ],
+  "libraryCounts": {
+    "files": 0,
+    "archiveSources": 0,
+    "pdf": 0,
+    "pages": 0
+  },
+  "audit": []
+}

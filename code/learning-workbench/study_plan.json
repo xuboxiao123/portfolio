@@ -1,0 +1,60 @@
+{
+  "currentTerm": "Demo",
+  "currentWeek": 1,
+  "verifiedAt": "Demo dataset",
+  "timezone": "Australia/Sydney",
+  "calendarSource": "",
+  "enrolmentSource": "",
+  "currentDates": {
+    "teaching": "",
+    "exams": ""
+  },
+  "periods": [],
+  "exam": {
+    "dateLabel": "",
+    "date": "2000-01-01",
+    "time": "",
+    "room": "",
+    "duration": "",
+    "source": "",
+    "materialsSource": "",
+    "scope": "",
+    "format": "",
+    "exceptions": "",
+    "studentId": "",
+    "allocationRule": "",
+    "allocationReason": "",
+    "roomCode": "",
+    "verifiedAt": "",
+    "timetableSource": "",
+    "roomSource": "",
+    "mapSource": "",
+    "locationHint": "",
+    "arrivalAdvice": "",
+    "noticeSource": "",
+    "scopeSource": "",
+    "materialsAllowed": [],
+    "materialsForbidden": "",
+    "elsException": "",
+    "scopeItems": [],
+    "practiceAdvice": ""
+  },
+  "timetable": [],
+  "supplementaryCourses": [],
+  "summerSelfStudy": {
+    "courses": [],
+    "sourceFolder": "",
+    "status": "",
+    "preference": "",
+    "updatedAt": ""
+  },
+  "deadlineDashboard": {
+    "checkedAt": "Demo dataset",
+    "timezone": "Australia/Sydney",
+    "localTimezone": "Australia/Sydney",
+    "weekDefinition": "",
+    "coverage": "",
+    "items": [],
+    "needsVerification": []
+  }
+}

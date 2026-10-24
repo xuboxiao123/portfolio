@@ -1,0 +1,2 @@
+void setup(){Serial.begin(9600);pinMode(LED_BUILTIN,OUTPUT);}
+void loop(){int raw=analogRead(A0);bool on=raw>=600;digitalWrite(LED_BUILTIN,on?HIGH:LOW);Serial.print("{\"raw\":");Serial.print(raw);Serial.print(",\"led\":");Serial.print(on?"true":"false");Serial.println("}");delay(200);}

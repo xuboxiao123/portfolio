@@ -4,21 +4,21 @@ Two separate coursework prototypes: a networked ESP8266/MQTT system and a local 
 
 ## ESP8266 & MQTT Environment Monitoring
 
-![Annotated physical prototype](../../mqtt-annotated-prototype.jpg)
+![Annotated physical prototype](../../assets/images/mqtt-annotated-prototype.jpg)
 
 Temperature/humidity and light readings travel through MQTT as JSON. A Python/Paho subscriber combines the latest readings and sends LED/fan-control messages.
 
-[Project, wiring and test pictures](../../project-iot-monitor.md) · [Python controller](iot_led_controller.py)
+[Project, wiring and test pictures](../../docs/projects/project-iot-monitor.md) · [Python controller](iot_led_controller.py)
 
-![Device publishing and Python controller output](../../mqtt-serial-output.jpg)
+![Device publishing and Python controller output](../../assets/images/mqtt-serial-output.jpg)
 
 ## Environmental Sensing & Automatic Actuation
 
-![Arduino sensor and motor prototype](../../arduino-environment-prototype.jpg)
+![Arduino sensor and motor prototype](../../assets/images/arduino-environment-prototype.jpg)
 
 The Arduino sketch uses light and humidity conditions to switch a DC motor and reports readings and state over serial.
 
-[Project, wiring and implementation pictures](../../project-environment-control.md) · [Arduino sketch](environment_motor.ino)
+[Project, wiring and implementation pictures](../../docs/projects/project-environment-control.md) · [Arduino sketch](environment_motor.ino)
 
 ## Source revisions
 
