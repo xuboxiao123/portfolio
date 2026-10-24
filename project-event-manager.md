@@ -26,6 +26,15 @@ React components → Axios → Express REST API → MySQL
 
 The repository includes the frontend from the student submission directory. The REST backend is an integration dependency and is not included here. An alternate complete backend found under a different student's submission identifier has deliberately not been presented as personal authorship.
 
+## Application screenshots
+
+[Open project gallery](https://xuboxiao123.github.io/portfolio/react-events.html)
+
+![Event list with search and sort](react-events-interface.jpg)
+![Update Event form](react-events-edit.jpg)
+
+Screenshots supplied by the owner show the interface and edit dialog; they do not establish a fresh database-backed test of this archive.
+
 ## Code visuals
 ![React state and async loading](event-manager-react-state.jpg)
 ![Axios API operations](event-manager-api-client.jpg)
@@ -33,7 +42,7 @@ The repository includes the frontend from the student submission directory. The 
 
 ## Running the frontend
 ```sh
-cd project-event-manager.mdsource
+cd code/react-events
 npm ci
 npm run dev
 ```
@@ -48,3 +57,4 @@ Original source reviewed for this portfolio. No current database-backed CRUD ver
 [Express / MySQL API source](code/event-api-reference/) · [Download API source](event-api-reference-source.zip)
 
 The frontend's localhost:8181/events endpoint matches the recovered API. The API is archived as course-companion reference material; authorship could not be established from the download, so it is not claimed as independently authored work. The publication copy uses environment variables for database settings. / 配套 API 的端口与当前前端一致；按课程参考材料标注，数据库配置改为环境变量。未声称此次已完成真实数据库联调。
+

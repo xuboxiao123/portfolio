@@ -29,3 +29,8 @@ Project descriptions were checked against available source code, report pages, s
 - Blue Planet: supplied team board `BluePlanet(Dio,Young,Alioth,Miuna）.pdf`; prototype and structure crops. Team: Dio, Young, Alioth, Miuna. Boxiao Xu contributed the primary product concept and project implementation, as clarified by the owner.
 - Extract Hour Café: original student `32211052DioAssignment2.pdf`, pages 12–13, and the existing website walkthrough. Coursework design studies and WordPress implementation; third-party photographs and brand imagery retain their ownership.
 - Multimodal pose research: owner-supplied `PHLCSHY-401001-G5-终稿(1).docx`, author Boxiao Xu. Original manuscript and extracted method/results figures. Publication verified against the publisher record: https://stecep.deanfrancis.press/article/view/482; DOI 10.61173/8wq6d604, published 19 December 2025.
+
+
+## Interface and hardware evidence update
+
+Owner-supplied screenshots dated 24 October 2026: ESP8266/MQTT system, wiring, annotated prototype, physical tests and message/serial output; separate Arduino environment-sensing/motor project diagrams and implementation photographs; React Event Manager list and edit-dialog screenshots. Concept diagrams and implementation revisions are labelled separately. Existing Right Locker, café and capstone imagery is reused for the four frontend cards.

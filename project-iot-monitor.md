@@ -3,7 +3,7 @@
 # IoT Environment Monitor
 
 
-[Browse Arduino / IoT code](code/arduino-iot/) · [Arduino sketch](code/arduino-iot/environment_motor.ino) · [Python controller](code/arduino-iot/iot_led_controller.py)
+[Project gallery](https://xuboxiao123.github.io/portfolio/iot-environment.html) · [Python MQTT controller](code/arduino-iot/iot_led_controller.py) · [Separate Arduino project](project-environment-control.md)
 
 **ESP8266 环境监测与远程控制原型**
 
@@ -24,11 +24,22 @@ The original proposal explores keeping 3D-printing filament dry. The proof of co
 
 The source controller distinguishes red, yellow and green states using light, humidity and temperature thresholds. The fan is enabled in the red state, with shutdown messages on disconnect/exit.
 
-![Annotated prototype](iot-hardware.jpg)
-![Physical prototype tests](iot-prototype-test.jpg)
+![Annotated prototype](mqtt-annotated-prototype.jpg)
+![Physical prototype tests](mqtt-prototype-tests.jpg)
 *Original Assignment 2B report, pages 2 and 6.*
 
 [Read the original Python controller](iot_led_controller.py)
 
 ## Scope
 Bench proof of concept with a motor/fan. The initial proposal mentions DHT22; the implementation report and code document DHT11. Firmware with Wi-Fi configuration is not distributed in this showcase.
+
+
+
+## System, wiring and messaging evidence
+
+![System concept](mqtt-system-overview.jpg)
+![Wiring](mqtt-wiring.jpg)
+![MQTT messages](mqtt-sensor-messages.jpg)
+![Serial output](mqtt-serial-output.jpg)
+
+Additional images supplied by the owner. The system diagram is a concept reference; the bench tests demonstrate the sensor, LED and motor/fan control loop.

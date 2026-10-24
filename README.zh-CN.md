@@ -55,6 +55,14 @@ Other interface projects: [React Event Manager / React 活动管理](project-eve
 
 [Project & figures / 项目与图示](https://xuboxiao123.github.io/portfolio/research.html) · [Published article / 正式发表论文](https://stecep.deanfrancis.press/article/view/482) · [DOI: 10.61173/8wq6d604](https://doi.org/10.61173/8wq6d604) · [Author manuscript / 作者原稿](multimodal-character-pose-paper.docx) · [Summary / 简介](project-multimodal-pose.md)
 
+## Interfaces & connected systems / 界面与物联网原型
+
+| [React Event Manager / React 活动管理](https://xuboxiao123.github.io/portfolio/react-events.html) | [ESP8266 & MQTT / 联网环境监测](https://xuboxiao123.github.io/portfolio/iot-environment.html) | [Arduino Automatic Control / 环境感知与自动执行](https://xuboxiao123.github.io/portfolio/environment-control.html) |
+|:---:|:---:|:---:|
+| [![React event-management interface](thumb-react-events.jpg)](https://xuboxiao123.github.io/portfolio/react-events.html) | [![ESP8266 environment-monitoring prototype](thumb-mqtt-environment.jpg)](https://xuboxiao123.github.io/portfolio/iot-environment.html) | [![Arduino automatic-control prototype](thumb-arduino-environment.jpg)](https://xuboxiao123.github.io/portfolio/environment-control.html) |
+| Search, date sorting and event editing.<br>搜索、日期排序与活动编辑。 | ESP8266, MQTT/JSON, Python, LEDs and fan control.<br>联网采集、消息传输与反馈控制。 | LDR, DHT sensor and conditional DC motor actuation.<br>光照、湿度感知与电机自动执行。 |
+| [React source / 源码](code/react-events/) | [MQTT controller / 控制源码](code/arduino-iot/iot_led_controller.py) | [Arduino sketch / 源码](code/arduino-iot/environment_motor.ino) |
+
 ## Backend, algorithms & source code / 后端、算法与源码
 
 | Project / 项目 | Implementation / 实现 | Browse / 查看 |

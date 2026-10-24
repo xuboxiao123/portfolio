@@ -235,3 +235,7 @@ This is a curated showcase of undergraduate projects and prototypes. Individual 
 - [Blue Planet — group environmental product design](project-blueplanet.md): primary concept and implementation by Boxiao Xu.
 - [Multimodal AI character pose research](project-multimodal-pose.md): published research (DOI 10.61173/8wq6d604), text/image/audio generation pipeline.
 - [Web and interface design](visual-design.html): café, travel, capstone and Right Locker interfaces.
+
+
+- [Arduino environmental sensing and automatic actuation](project-environment-control.md): separate local controller with wiring, physical prototype and serial diagnostics.
+- [ESP8266/MQTT photo gallery](iot-environment.html) · [React application screenshots](react-events.html).
