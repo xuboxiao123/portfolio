@@ -24,3 +24,4 @@ This version uses no OpenAI API key and makes no direct OpenAI API calls. ChatGP
 当前版本不调用 OpenAI API，也不读取 ChatGPT 回答。只归档插件源码，未包含讲义、录像、账号或缓存。页面适配及时间戳解析依赖 EchoVideo 的实际界面，历史版本的端到端兼容性未在此次上传时重新验证。
 
 Source / 来源: E:/Codex/2026-09-25/unsw-ai-echovideo-assistant. Original Chinese usage notes are preserved in ORIGINAL_USAGE.zh-CN.md.
+
